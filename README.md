@@ -1,8 +1,5 @@
-\# Ethical Packet Sniffer Lab
-
-
-
-\## Project Overview
+Ethical Packet Sniffer
+Project Overview
 
 
 
@@ -17,7 +14,7 @@ The tool supports two modes:
 
 
 
-\## Learning Goals
+Learning Goals
 
 
 
